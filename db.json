@@ -1,0 +1,14 @@
+{
+  "data": {
+    "user": [
+      {
+        "userId": "admin",
+        "pass": "123",
+        "name": "Admin",
+        "city": "Fullerton",
+        "state": "California",
+        "score": 0
+      }
+    ]
+  }
+}
